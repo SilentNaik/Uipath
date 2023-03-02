@@ -69,7 +69,7 @@
         <OutArgument x:TypeArguments="x:String">[String1]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String" xml:space="preserve">This is </InArgument>
+        <InArgument x:TypeArguments="x:String" xml:space="preserve">The Name is </InArgument>
       </Assign.Value>
     </Assign>
     <Assign sap:VirtualizedContainerService.HintSize="434,82" sap2010:WorkflowViewState.IdRef="Assign_2">
